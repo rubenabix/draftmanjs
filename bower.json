@@ -1,0 +1,25 @@
+{
+  "name": "draftmanjs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rubenabix/draftmanjs",
+  "authors": [
+    "rubenabix <rubenabix@gmail.com>"
+  ],
+  "description": "Automatic svg draftsman",
+  "main": [
+    "dev/manager.js",
+    "dev/mathManager.js",
+    "dev/svgManager.js"
+  ],
+  "keywords": [
+    "svg"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
